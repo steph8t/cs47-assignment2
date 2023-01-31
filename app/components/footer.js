@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, Image, Dimensions, PixelRatio } from 'react-native';
+import { StyleSheet, Text, View, Image, Dimensions, PixelRatio, Platform } from 'react-native';
 import { Icons, Themes } from '../../assets/Themes';
 
 const { height, width } = Dimensions.get('window');
